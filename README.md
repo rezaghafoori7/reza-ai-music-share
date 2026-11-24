@@ -1,2 +1,12 @@
-# reza-ai-music-share
-A glassmorphic personal music sharing website
+# آهنگ‌های Reza AI
+
+یک وب‌سایت کامل، واکنش‌گرا و شیشه‌ای برای اشتراک‌گذاری موسیقی.
+
+ویژگی‌ها:
+- تنظیم نام، عکس و کاور هدر
+- افزودن و پخش آهنگ
+- دانلود فایل MP3
+- متن آهنگ برای هر قطعه
+- ذخیره تنظیمات و آهنگ‌ها در LocalStorage مرورگر
+
+برای انتشار روی GitHub Pages: Settings → Pages → Deploy from branch → `main` / `(root)`
